@@ -10,3 +10,11 @@ Tämä on jatkokehitetty peli <a href="https://github.com/git-laakso/My-Zombie-S
 -Teleport käyttäen transform new Vector3:sta, kun lasketaan killCount lukemaksi 17. Pelaajaa liikutellaan näin eri tasoille <br> 
 -Lisätty uutta pelialuetta <br>
 -Korjattu bugina pelaajan tippuminen pois pelikentältä, kun vihollista katsoo 80 asteen kulmassa vasten seinää ja kulkemalla taaksepäin
+## Esimerkki
+![Animated GIF-downsized_large](https://user-images.githubusercontent.com/52996898/71075015-07e7ef00-218c-11ea-8d71-ddadad2f45ae.gif)
+
+## Dokumentaatio
+![intro](https://user-images.githubusercontent.com/52996898/71072096-77f37680-2186-11ea-81c3-0608be0f6dba.PNG)
+![2](https://user-images.githubusercontent.com/52996898/71072211-a8d3ab80-2186-11ea-94d4-2c3fae471c29.PNG)
+![3](https://user-images.githubusercontent.com/52996898/71072213-aa04d880-2186-11ea-9591-f3a715503ba8.PNG)
+![4](https://user-images.githubusercontent.com/52996898/71072215-aa9d6f00-2186-11ea-8922-9b4f4b06f9dc.PNG)
